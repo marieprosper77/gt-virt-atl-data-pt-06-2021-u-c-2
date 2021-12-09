@@ -1,0 +1,5 @@
+Deploy to Heroku with Mongo - https://jasonwatmore.com/post/2018/12/06/deploy-to-heroku-node-mongo-api-for-authentication-registration-and-user-management#install-mongodb-addon
+
+How to deploy your Mongo app - https://medium.com/make-school/how-to-deploy-your-node-js-mongodb-app-to-the-web-using-heroku-63d4bccf2675
+
+
